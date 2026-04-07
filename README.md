@@ -7,3 +7,9 @@
 <img width="100" height="100" alt="lfd121-developing-secure-software 1" src="https://github.com/user-attachments/assets/bc31639d-e79a-4ced-9dd1-5a85a9b2de8d" />
 <span> &nbsp; </span>
 <img width="100" height="100" alt="lfs183-introduction-to-zero-trust" src="https://github.com/user-attachments/assets/48b7d70a-0f8a-4a03-976b-cfa10d57b6f5" />
+
+<br>
+Microsoft Certificates: <br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AdamKawik-6507/CC8E4CBDD783FF09?sharingId=23DD94DF5B66BDF9">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?logo=microsoftazure&logoColor=white" />
+</a>
